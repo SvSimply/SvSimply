@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Svetlana Baranova</h1>
+<h1 align="center">Hey, I'm Svetlana</h1>
 <h3 align="center">A Backend Software Developer is chasing the dream career</h3>
 
 - 🌱 I’m currently learning <b>AWS</b>
