@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning <b>AWS</b>
 - 👯 I’m looking to collaborate on some <b>project that makes world better place</b>
-- 💬 Ask me about <b>Art Jornaling, or Java</b>
+- 💬 Ask me about <b>Art Journaling, or Java</b>
 - ⚡ Fun fact: I moved from Russia to the USA
 
 <h3 align="left">Languages and Tools:</h3>
